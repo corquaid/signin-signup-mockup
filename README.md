@@ -1,3 +1,11 @@
+# Quick Start!
+
+1. Clone the repository.
+2. Run ```yarn``` or ```npm install```
+3. Run ```yarn start``` or ```npm start```
+
+# The usual CRA boilerplate stuff...
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
