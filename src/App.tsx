@@ -5,7 +5,7 @@ import styles from "./styles/App.module.css";
 
 function App() {
     return (
-        <Router>
+        <Router basename={process.env.PUBLIC_URL}>
             <div className={styles.appContainer}>
                 <div className={styles.contentContainer}>
                     <Switch>
